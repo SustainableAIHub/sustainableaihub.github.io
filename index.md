@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: Sustainable AI Hub
+feature_image: "assets/logo.png"
 feature_text: |
-  ## Hello world
+  ## Welcome to the Sustainable AI Hub!
 ---
 
-There isn't much going on here yet, but watch this space
+Launching soon -- sign up for updates!
