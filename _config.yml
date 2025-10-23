@@ -3,28 +3,28 @@ remote_theme: daviddarnes/alembic@main
 
 # File excludes
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-remote-theme
 
 # Site settings
-url: 'https://www.sustainableaihub.org/'
-baseurl: ''
-title: 'Sustainable AI Hub'
-description: 'This is my new website'
+url: "https://www.sustainableaihub.org/"
+baseurl: ""
+title: "Sustainable AI Hub"
+description: "The Sustainable AI Hub aims to bring together resources, projects and materials around making AI more sustainable."
 permalink: pretty
 logo: "assets/logo.png"
 
@@ -34,17 +34,19 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Resources
+    url: /resources/
+  - title: Sign up for updates
+    url: /sign-up/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+  - title: Back to top
+    url: "#top"
 
 # Collections
 collections:
@@ -58,14 +60,12 @@ collections:
 
 # Collection settings
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: post # Set the default layout for posts
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
