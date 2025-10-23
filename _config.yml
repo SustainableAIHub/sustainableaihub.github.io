@@ -51,12 +51,12 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Resources
     output: true
-    description: "My thoughts and ideas"
+    description: "Sustainable AI Resources"
     feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      Sustainable AI Resources
+    feature_image: "assets/DistortedDandelions.png"
 
 # Collection settings
 defaults:

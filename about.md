@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: About
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+The Sustainable AI Hub is an initiative that aims to bring together resources, projects and materials around making AI more sustainable.
