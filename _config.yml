@@ -56,7 +56,7 @@ collections:
     description: "Sustainable AI Resources"
     feature_text: |
       Sustainable AI Resources
-    feature_image: "assets/DistortedDandelions.png"
+    feature_image: "https://github.com/SustainableAIHub/sustainableaihub.github.io/blob/main/assets/DistortedDandelions.png"
 
 # Collection settings
 defaults:
