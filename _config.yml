@@ -39,7 +39,7 @@ navigation_header:
     url: /about/
   - title: Resources
     url: /resources/
-  - title: Sign up for updates
+  - title: Sign up
     url: /sign-up/
 
 # Footer nav
