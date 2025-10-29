@@ -1,8 +1,7 @@
 ---
 title: AI Energy Score
 categories:
-- Projects
-- Bechmarking
+- resources
 ---
 
 AI Energy Score is an initiative to establish comparable energy efficiency ratings for AI models, helping the industry make informed decisions about sustainability in AI development.
