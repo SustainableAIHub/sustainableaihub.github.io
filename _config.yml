@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: "https://www.sustainableaihub.org/"
-baseurl: ""
+baseurl: "https://www.sustainableaihub.org/"
 title: "Sustainable AI Hub"
 description: "The Sustainable AI Hub aims to bring together resources, projects and materials around making AI more sustainable."
 permalink: pretty
