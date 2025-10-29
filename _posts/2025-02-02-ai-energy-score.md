@@ -5,9 +5,6 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
-
-
 AI Energy Score is an initiative to establish comparable energy efficiency ratings for AI models, helping the industry make informed decisions about sustainability in AI development.
 
 To account for AI’s diverse applications, it benchmarks models across 10 distinct tasks spanning multiple modalities, testing both open and proprietary models. These results are made available in a public leaderboard to track progress over time:
