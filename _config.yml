@@ -53,6 +53,7 @@ collections:
     title: Resources
     output: true
     description: "Sustainable AI Resources"
+    aside: true
     feature_image: "https://github.com/SustainableAIHub/sustainableaihub.github.io/blob/main/assets/DistortedDandelions.png?raw=true"
 
 # Collection settings
