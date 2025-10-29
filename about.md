@@ -4,7 +4,9 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 The world’s data centers currently require two percent of global electricity usage and contribute 4% to global greenhouse gas emissions, with these numbers set to double in the next few years. Since we are only starting to comprehend and measure the impact of Artificial Intelligence (AI) on the environment, its contribution towards this number is unclear. What we do know is that AI systems are compute-intensive, which increases the workload of datacenters, increasing their overall energy use, most of which comes from nonrenewable sources.
 
-While some research and documentation on AI’s environmental impacts currently exists, the nature and extent of AI’s effects are under-documented, ranging from its embodied and enabled emissions to rebound effects due to its increased usage. **The Sustainable AI Hub** is an initiative that aims to bring together resources, projects and materials around making AI less harmful to people and the planet.
+While some research and documentation on AI’s environmental impacts currently exists, the nature and extent of AI’s effects are under-documented, ranging from its embodied and enabled emissions to rebound effects due to its increased usage.
+
+**The Sustainable AI Hub** is an initiative that aims to bring together resources, projects and materials around making AI less harmful to people and the planet.
 
 ## Current State of Knowledge on AI’s Environmental Impacts
 
