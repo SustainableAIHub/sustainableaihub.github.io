@@ -68,3 +68,13 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+# Load custom fonts from fonts.google.com etc
+#
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap
